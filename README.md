@@ -43,6 +43,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xno1n&show_icons=true&locale=en&layout=compact" alt="xno1n" /></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xno1n)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xno1n&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xno1n&show_icons=true&theme=chartreuse-dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xno1n&theme=github-dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
