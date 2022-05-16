@@ -40,4 +40,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xno1n&show_icons=true&theme=chartreuse-dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xno1n&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=DD272700)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xno1n&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&border=FFFFFF&background=000000&stroke=00DD39&ring=00DD39&fire=00DD39)](https://git.io/streak-stats)
