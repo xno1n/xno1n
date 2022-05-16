@@ -1,12 +1,5 @@
 <h1 align="center">Welcome to %n01n Swamp!</h1>
 <h3 align="center">my name is mahyar azad !A 19yo boy who has been learning programming and network security for about 5 years, and I am getting more and more interested. Here I will share with you the programs that I am working on And I hope you find it useful And I'll be happy for you to share your experiences with me!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xno1n&label=Profile%20views&color=0e75b6&style=flat" alt="xno1n" /> </p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xno1n&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <p align="left"> <a href="https://twitter.com/xno1n" target="blank"><img src="https://img.shields.io/twitter/follow/xno1n?logo=twitter&style=for-the-badge" alt="xno1n" /></a> </p>
 
 - 🔭 I’m currently working on [Dark side](https://github.com/xno1n/DarkSide)
@@ -42,4 +35,5 @@
   <h3 align="left">My Activity:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xno1n&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&stroke=00DD14&ring=00DD14&fire=00DD14)](https://git.io/streak-stats)
-
+<h3 align="left">My Trophy:</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=xno1n&theme=matrix)](https://github.com/xno1n/github-profile-trophy)
