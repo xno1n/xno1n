@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xno1n&label=Profile%20views&color=0e75b6&style=flat" alt="xno1n" /> </p>
 
-https://github-profile-trophy.vercel.app/?username=xno1n-ma&theme=matrix
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=xno1n)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <a href="https://twitter.com/xno1n" target="blank"><img src="https://img.shields.io/twitter/follow/xno1n?logo=twitter&style=for-the-badge" alt="xno1n" /></a> </p>
