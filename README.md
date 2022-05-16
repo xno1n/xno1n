@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xno1n&show_icons=true&locale=en" alt="xno1n" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xno1n&" alt="xno1n" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xno1n&theme=github-dark&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
