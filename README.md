@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b761118d241fc104d2ecc0a4c556c07e357cf900e95ed&rid=giphy.gif&ct=g">
+<img align="center" alt="Coding" width="1000" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b761118d241fc104d2ecc0a4c556c07e357cf900e95ed&rid=giphy.gif&ct=g">
 
 <h1 align="center">Welcome to %n01n Swamp!</h1>
 <h3 align="center">a person who has been learning programming and network security for about 5 years, and I am getting more and more interested. Here I will share with you the programs that I am working on And I hope you find it useful And I'll be happy for you to share your experiences with me!</h3>
