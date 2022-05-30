@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Dark side](https://github.com/xno1n/DarkSide)
 
-- 🌱 I’m currently learning **linux,Network Security**
+- 🌱 I’m currently learning **linux,Network Security,Ruby**
 
 - 🔭 I’m currently working too on [WebKiller](https://github.com/xno1n/webkiller)
 
