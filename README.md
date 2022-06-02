@@ -4,11 +4,11 @@
 <h3 align="center">a person who has been learning programming and network security for about 5 years, and I am getting more and more interested. Here I will share with you the programs that I am working on And I hope you find it useful And I'll be happy for you to share your experiences with me!</h3>
 <p align="left"> <a href="https://twitter.com/xno1n" target="blank"><img src="https://img.shields.io/twitter/follow/xno1n?logo=twitter&style=for-the-badge" alt="xno1n" /></a> </p>
 
-- 🔭 I’m currently working on [Dark side](https://github.com/xno1n/DarkSide)
+- 🔭 I’m currently working on [Blocke](https://github.com/xno1n/Blocke)
 
 - 🌱 I’m currently learning **linux,Network Security,Ruby**
 
-- 🔭 I’m currently working too on [WebKiller](https://github.com/xno1n/webkiller)
+- 🔭 I’m currently working too on [xno1n weblog](https://xno1n.github.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/xno1n?tab=repositories](https://github.com/xno1n?tab=repositories)
 
